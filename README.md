@@ -1,5 +1,5 @@
 # access-log-parser
-Access log parser for nginx / apache
+Simple access_log parser for nginx / apache written in php
 
 ## This script will output an array with:
 - suspicious requests
